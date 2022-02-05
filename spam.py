@@ -1,6 +1,6 @@
-# Discord: TiMoFey#5066
-# Github: https://github.com/timofey260/pyspam
-# site: https://timofey26s.tilda.ws
+# Discord: KALEEM KHAN
+# Github: https://github.com/Kaleemkhan90
+# site: https://chat.whatsapp.com/LU08e9sMJjtK370pU2tNr8
 # import______________________________________________
 import codecs
 import pyautogui
@@ -31,10 +31,10 @@ b = ('_____   +                       |||||||||||||||||| \n'
      '  |     |  /      \\/      \\     ||||\\00000000/|||| \n'
      '========spam_programm===========|||||||||||||||||| \n')  # menu
 cr = (rg + ' ________________________________________________ \n'
-           '|-------------------Made by Timofey--------------|\n'
-           '|Discord: TiMoFey#5066                           |\n'
-           '|Github: https://github.com/timofey260/pyspam    |\n'
-           '|site: https://timofey26s.tilda.ws               |\n'
+           '|-------------------Made by Kaleem khan--------------|\n'
+           '|Discord: Kaleem khan                           |\n'
+           '|Github: https://github.com/Kaleemkhan90    |\n'
+           '|site: https://chat.whatsapp.com/LU08e9sMJjtK370pU2tNr8             |\n'
            '|________________________________________________|\n')
 err = (rr + ' _________________________________________________________ \n'
             '|---------------------------Errors------------------------|\n'
